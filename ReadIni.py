@@ -2,7 +2,7 @@ import configparser
 import os
 from datetime import datetime
 
-INI_FILE_LOC = "C:\\Pallavi\\NSF_AM_Pathways\\AnalysisFramework\\framework.ini"
+INI_FILE_LOC = ""
 SYLLABI_ROOT_LOC = ""
 SYLLABI_LOC = []
 RESULTS_LOC = ""
